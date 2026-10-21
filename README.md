@@ -17,6 +17,7 @@ The platform compares planned and log-reported MLC positions, providing quantita
 - Virtual picket-fence QA at multiple gantry angles.
 - Per-leaf RMS and maximum absolute positional error analysis.
 - Configurable QA tolerance and action criteria.
+- - Automated evaluation of MLC positional accuracy against QA tolerance and action based on AAPM TG-142 and MPPG 8.b.
 - Automated QA reports and longitudinal trend analysis.
 
 ## Methodology and Results
