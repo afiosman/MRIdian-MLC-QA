@@ -19,8 +19,8 @@ Fig. 1: Screenshot of our web-based application.
 - Independent assessment of upper and lower MLC stacks (138 leaves).
 - Virtual picket-fence QA at multiple gantry angles.
 - Per-leaf RMS and maximum absolute positional error analysis.
-- Configurable QA tolerance and action criteria.
-- - Automated evaluation of MLC positional accuracy against QA tolerance and action based on AAPM TG-142 and MPPG 8.b.
+- Configurable QA tolerance and action criteria based on AAPM TG-142 and MPPG 8.b.
+- Automated evaluation of MLC positional accuracy against QA tolerance and action.
 - Automated QA reports and longitudinal trend analysis.
 
 ## Methodology and Results
