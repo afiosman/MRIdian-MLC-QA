@@ -10,6 +10,8 @@ MRIdian-MLC-QA is a Python-based research platform developed to automate multile
 
 The platform compares planned and log-reported MLC positions, providing quantitative QA metrics, automated reporting, and longitudinal performance monitoring through a Streamlit-based graphical interface.
 
+<img width="1772" height="782" alt="image" src="https://github.com/user-attachments/assets/3cc91746-54e1-4f32-8b50-2e99f8df42c9" />
+
 ## Key Features
 
 - Automated parsing and analysis of MRIdian delivery log files.
