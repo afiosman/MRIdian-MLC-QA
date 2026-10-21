@@ -12,6 +12,7 @@ The platform compares planned and log-reported MLC positions, providing quantita
 
 <img width="1772" height="782" alt="image" src="https://github.com/user-attachments/assets/3cc91746-54e1-4f32-8b50-2e99f8df42c9" />
 Fig. 1: Screenshot of our web-based application. 
+
 ## Key Features
 
 - Automated parsing and analysis of MRIdian delivery log files.
